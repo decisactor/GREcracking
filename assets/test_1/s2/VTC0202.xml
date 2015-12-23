@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p>Federal efforts to regulate standards on educational achievements have been met by (i)____________ from the states; local governments feel that government imposition represents an undue infringement on their (ii)____________.</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:blanks>
+	<barrons:blank>
+		<barrons:choice correct="false"><![CDATA[receptivity]]></barrons:choice>
+		<barrons:choice correct="true"><![CDATA[intransigence]]></barrons:choice>
+		<barrons:choice correct="false"><![CDATA[compromise]]></barrons:choice>
+	</barrons:blank>
+	<barrons:blank>
+		<barrons:choice correct="true"><![CDATA[autonomy]]></barrons:choice>
+		<barrons:choice correct="false"><![CDATA[legislation]]></barrons:choice>
+		<barrons:choice correct="false"><![CDATA[comportment]]></barrons:choice>
+	</barrons:blank>
+</barrons:blanks>
+
+</question_content>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p>Years of confinement in a sunless cell had left the prisoner wan and weakened, with a shockingly __________ appearance.</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:blanks>
+		<barrons:blank>
+			<barrons:choice correct="false"><![CDATA[sidereal]]></barrons:choice>
+			<barrons:choice correct="true"><![CDATA[boisterous]]></barrons:choice>
+			<barrons:choice correct="false"><![CDATA[etiolated]]></barrons:choice>
+			<barrons:choice correct="false"><![CDATA[singular]]></barrons:choice>
+			<barrons:choice correct="false"><![CDATA[circumscribed]]></barrons:choice>
+		</barrons:blank>
+</barrons:blanks>
+
+</question_content>

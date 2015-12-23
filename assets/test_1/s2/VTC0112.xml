@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p>With global interconnectedness on the increase, the conviction of the United States to remain neutral in World War I seemed ever more ___________.</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:blanks>
+		<barrons:blank>
+			<barrons:choice correct="false"><![CDATA[presumptuous]]></barrons:choice>
+			<barrons:choice correct="false"><![CDATA[futile]]></barrons:choice>
+			<barrons:choice correct="false"><![CDATA[contemptuous]]></barrons:choice>
+			<barrons:choice correct="true"><![CDATA[pragmatic]]></barrons:choice>
+			<barrons:choice correct="false"><![CDATA[admirable]]></barrons:choice>
+		</barrons:blank>
+</barrons:blanks>
+
+</question_content>

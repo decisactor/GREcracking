@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p>Increasingly, the boundaries of congressional seats arc drawn in order to protect incumbents, as legislators engineer the demographics of each district such that those already in office can coast to (i)___________ victory. Of course, there is always the possibility that the incumbent will face a challenge from within his or her own party. Nevertheless, once the primary is over, the general election is (ii)__________</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:blanks>
+	<barrons:blank>
+		<barrons:choice correct="false"><![CDATA[an ineluctable]]></barrons:choice>
+		<barrons:choice correct="false"><![CDATA[an invidious]]></barrons:choice>
+		<barrons:choice correct="true"><![CDATA[a plangent]]></barrons:choice>
+	</barrons:blank>
+	<barrons:blank>
+		<barrons:choice correct="true"><![CDATA[seldom nugatory]]></barrons:choice>
+		<barrons:choice correct="false"><![CDATA[remarkably contentious]]></barrons:choice>
+		<barrons:choice correct="false"><![CDATA[merely denouement]]></barrons:choice>
+	</barrons:blank>
+</barrons:blanks>
+
+</question_content>

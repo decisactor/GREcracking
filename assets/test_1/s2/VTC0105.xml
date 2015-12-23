@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p>Despite the smile that spread from ear to ear, her eyes relayed a certain __________.</p> 
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:blanks>
+		<barrons:blank>
+			<barrons:choice correct="false"><![CDATA[jubilance]]></barrons:choice>
+			<barrons:choice correct="true"><![CDATA[sorrow]]></barrons:choice>
+			<barrons:choice correct="false"><![CDATA[mischievousness]]></barrons:choice>
+			<barrons:choice correct="false"><![CDATA[vision]]></barrons:choice>
+			<barrons:choice correct="false"><![CDATA[liveliness]]></barrons:choice>
+		</barrons:blank>
+</barrons:blanks>
+
+</question_content>

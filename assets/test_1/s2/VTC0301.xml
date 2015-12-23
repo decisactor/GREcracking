@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p>Many popular musicians have (i)__________ new digital technologies that allow them unprecedented control over their music. These musicians use computers to (ii)__________ and modify their songs, resulting in a level of musical precision often unattainable naturally. Of course, though, as is often the case with new technologies, some traditionalists (iii)__________ these developments.</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:blanks>
+	<barrons:blank>
+		<barrons:choice correct="true"><![CDATA[incorporated]]></barrons:choice>
+		<barrons:choice correct="false"><![CDATA[synthesized]]></barrons:choice>
+		<barrons:choice correct="false"><![CDATA[alleviated]]></barrons:choice>
+	</barrons:blank>
+	<barrons:blank>
+		<barrons:choice correct="false"><![CDATA[energize]]></barrons:choice>
+		<barrons:choice correct="false"><![CDATA[delineate]]></barrons:choice>
+		<barrons:choice correct="true"><![CDATA[recast]]></barrons:choice>
+	</barrons:blank>
+	<barrons:blank>
+		<barrons:choice correct="true"><![CDATA[balk at]]></barrons:choice>
+		<barrons:choice correct="false"><![CDATA[revel in]]></barrons:choice>
+		<barrons:choice correct="false"><![CDATA[retaliate at]]></barrons:choice>
+	</barrons:blank>
+</barrons:blanks>
+
+</question_content>

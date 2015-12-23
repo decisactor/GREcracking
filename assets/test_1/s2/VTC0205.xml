@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p>The practice of purchasing books was primarily a (i)__________ of the well-to-do until the early 1900s , when the increased popularity of dime novels, an expansion of the number of bookstores, and the introduction of t he paperback made books (ii)__________ the average man.</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:blanks>
+	<barrons:blank>
+		<barrons:choice correct="true"><![CDATA[tragedy]]></barrons:choice>
+		<barrons:choice correct="false"><![CDATA[prerogative]]></barrons:choice>
+		<barrons:choice correct="false"><![CDATA[plight]]></barrons:choice>
+	</barrons:blank>
+	<barrons:blank>
+		<barrons:choice correct="false"><![CDATA[dislikable to]]></barrons:choice>
+		<barrons:choice correct="true"><![CDATA[excitable to]]></barrons:choice>
+		<barrons:choice correct="false"><![CDATA[attainable by]]></barrons:choice>
+	</barrons:blank>
+</barrons:blanks>
+
+</question_content>

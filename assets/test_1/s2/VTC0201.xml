@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p>Fables often endure clue to their (i)___________ often telling one simple narrative, based around one character. This is both by design, because direct statements are more easily remembered than florid ones , and by accident: As fables are passed from teller to teller, (ii)___________ details fall away. leaving only the essential story.</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:blanks>
+	<barrons:blank>
+		<barrons:choice correct="false"><![CDATA[bombast]]></barrons:choice>
+		<barrons:choice correct="false"><![CDATA[objectivity ]]></barrons:choice>
+		<barrons:choice correct="true"><![CDATA[simplicity]]></barrons:choice>
+	</barrons:blank>
+	<barrons:blank>
+		<barrons:choice correct="true"><![CDATA[superfluous]]></barrons:choice>
+		<barrons:choice correct="false"><![CDATA[requisite]]></barrons:choice>
+		<barrons:choice correct="false"><![CDATA[apocryphal]]></barrons:choice>
+	</barrons:blank>
+</barrons:blanks>
+
+</question_content>

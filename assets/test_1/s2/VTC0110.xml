@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p>It is usually desirable to expand the yield of harvest when __________ outlays of time, exertion, and other variable factors of production are not also required.</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:blanks>
+		<barrons:blank>
+			<barrons:choice correct="false"><![CDATA[predestined]]></barrons:choice>
+			<barrons:choice correct="true"><![CDATA[correlative]]></barrons:choice>
+			<barrons:choice correct="false"><![CDATA[analogous]]></barrons:choice>
+			<barrons:choice correct="false"><![CDATA[deliberate]]></barrons:choice>
+			<barrons:choice correct="false"><![CDATA[indeterminate]]></barrons:choice>
+		</barrons:blank>
+</barrons:blanks>
+
+</question_content>

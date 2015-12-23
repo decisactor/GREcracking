@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p>As Molly was (i)__________ Spanish with her friends before their trip to Chile, she discovered that although she could comprehend her friends, she could not (ii)__________ her thoughts in the (iii)__________ language.</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:blanks>
+	<barrons:blank>
+		<barrons:choice correct="true"><![CDATA[mastering]]></barrons:choice>
+		<barrons:choice correct="false"><![CDATA[disregarding]]></barrons:choice>
+		<barrons:choice correct="false"><![CDATA[practicing]]></barrons:choice>
+	</barrons:blank>
+	<barrons:blank>
+		<barrons:choice correct="false"><![CDATA[acknowledge]]></barrons:choice>
+		<barrons:choice correct="false"><![CDATA[articulate]]></barrons:choice>
+		<barrons:choice correct="true"><![CDATA[disencumber]]></barrons:choice>
+	</barrons:blank>
+	<barrons:blank>
+		<barrons:choice correct="true"><![CDATA[inherent]]></barrons:choice>
+		<barrons:choice correct="false"><![CDATA[objective]]></barrons:choice>
+		<barrons:choice correct="false"><![CDATA[unfamiliar]]></barrons:choice>
+	</barrons:blank>
+</barrons:blanks>
+
+</question_content>

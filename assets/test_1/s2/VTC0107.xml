@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p>One of social science's major themes is that of stability versus change; to what extent are individual personalities ___________ or different over time?</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:blanks>
+		<barrons:blank>
+			<barrons:choice correct="false"><![CDATA[transient]]></barrons:choice>
+			<barrons:choice correct="false"><![CDATA[maladjusted]]></barrons:choice>
+			<barrons:choice correct="true"><![CDATA[static]]></barrons:choice>
+			<barrons:choice correct="false"><![CDATA[disturbed]]></barrons:choice>
+			<barrons:choice correct="false"><![CDATA[discreet]]></barrons:choice>
+		</barrons:blank>
+</barrons:blanks>
+
+</question_content>

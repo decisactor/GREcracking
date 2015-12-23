@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p>He was a man of few words, ___________ around all but his closest friends.</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:choices>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>laconic</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>garrulous</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>ascetic</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>taciturn</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="true"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>tempestuous</p></TextFlow>]]></barrons:choice>
+<barrons:choice correct="false"><![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008"><p>ambiguous</p></TextFlow>]]></barrons:choice>
+</barrons:choices>
+
+</question_content>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p>While grizzly bears have long, flat, and somewhat blunt claws, black bears have short , curved, __________ claws.</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:blanks>
+		<barrons:blank>
+			<barrons:choice correct="false"><![CDATA[obtuse]]></barrons:choice>
+			<barrons:choice correct="false"><![CDATA[abominable]]></barrons:choice>
+			<barrons:choice correct="false"><![CDATA[barren]]></barrons:choice>
+			<barrons:choice correct="true"><![CDATA[acute]]></barrons:choice>
+			<barrons:choice correct="false"><![CDATA[fearful]]></barrons:choice>
+		</barrons:blank>
+</barrons:blanks>
+
+</question_content>

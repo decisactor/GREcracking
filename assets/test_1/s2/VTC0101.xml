@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p>When studying human history, one must be aware that the __________ between historical periods are arbitrary: certainly none of the people alive at the time were aware of a shift from one era to another.</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:blanks>
+		<barrons:blank>
+			<barrons:choice correct="false"><![CDATA[judgments]]></barrons:choice>
+			<barrons:choice correct="false"><![CDATA[ideologies]]></barrons:choice>
+			<barrons:choice correct="false"><![CDATA[innovations]]></barrons:choice>
+			<barrons:choice correct="true"><![CDATA[demarcations]]></barrons:choice>
+			<barrons:choice correct="false"><![CDATA[episodes]]></barrons:choice>
+		</barrons:blank>
+</barrons:blanks>
+
+</question_content>

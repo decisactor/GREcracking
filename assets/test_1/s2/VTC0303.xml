@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p>Water is one of the few molecules that is less (i)__________ as a solid than as a (ii)__________ ; if you need (iii)__________ just look at the floating ice in your water glass.</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:blanks>
+	<barrons:blank>
+		<barrons:choice correct="true"><![CDATA[intriguing]]></barrons:choice>
+		<barrons:choice correct="false"><![CDATA[dense]]></barrons:choice>
+		<barrons:choice correct="false"><![CDATA[aqueous]]></barrons:choice>
+	</barrons:blank>
+	<barrons:blank>
+		<barrons:choice correct="false"><![CDATA[vapor]]></barrons:choice>
+		<barrons:choice correct="false"><![CDATA[plasma]]></barrons:choice>
+		<barrons:choice correct="true"><![CDATA[liquid]]></barrons:choice>
+	</barrons:blank>
+	<barrons:blank>
+		<barrons:choice correct="true"><![CDATA[an illustration]]></barrons:choice>
+		<barrons:choice correct="false"><![CDATA[an imbibement]]></barrons:choice>
+		<barrons:choice correct="false"><![CDATA[a discordance]]></barrons:choice>
+	</barrons:blank>
+</barrons:blanks>
+
+</question_content>

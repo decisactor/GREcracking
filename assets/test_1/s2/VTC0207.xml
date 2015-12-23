@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p>While some professors, soon to find themselves listed under "emeritus," may still insist that video games will never be a proper object of study, the rising generation of academics is inclined to view such talk as positively (i)__________ . They note that (ii)__________ is one of the fastest-growing fields at the modern university.</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:blanks>
+		<barrons:blank>
+			<barrons:choice correct="false"><![CDATA[antediluvian]]></barrons:choice>
+			<barrons:choice correct="false"><![CDATA[pusillanimous]]></barrons:choice>
+			<barrons:choice correct="false"><![CDATA[jejune]]></barrons:choice>
+		</barrons:blank>
+		<barrons:blank>
+			<barrons:choice correct="false"><![CDATA[ludology]]></barrons:choice>
+			<barrons:choice correct="false"><![CDATA[kinesiology]]></barrons:choice>
+			<barrons:choice correct="false"><![CDATA[cybernetics]]></barrons:choice>
+		</barrons:blank>
+</barrons:blanks>
+
+</question_content>

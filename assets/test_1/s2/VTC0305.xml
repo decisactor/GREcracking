@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p>People accustomed to thinking that the human lifespan (i)__________ the outer bound of animal longevity tend to dismiss tales of musket balls being found in the shells of living turtles. Leading (ii)__________ Samantha Romney, however, argues that while such stories may be apocryphal, some turtles do indeed exhibit a phenomenon known as "negligible (iii)__________ ," showing no signs of aging even as they pass the two-century mark.</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:blanks>
+	<barrons:blank>
+		<barrons:choice correct="true"><![CDATA[belies]]></barrons:choice>
+		<barrons:choice correct="false"><![CDATA[demarcates]]></barrons:choice>
+		<barrons:choice correct="false"><![CDATA[antedates]]></barrons:choice>
+	</barrons:blank>
+	<barrons:blank>
+		<barrons:choice correct="false"><![CDATA[herpetologist]]></barrons:choice>
+		<barrons:choice correct="false"><![CDATA[ichthyologist]]></barrons:choice>
+		<barrons:choice correct="true"><![CDATA[ornithologist]]></barrons:choice>
+	</barrons:blank>
+	<barrons:blank>
+		<barrons:choice correct="true"><![CDATA[rejuvenation]]></barrons:choice>
+		<barrons:choice correct="false"><![CDATA[superannuation]]></barrons:choice>
+		<barrons:choice correct="false"><![CDATA[senescence]]></barrons:choice>
+	</barrons:blank>
+</barrons:blanks>
+
+</question_content>

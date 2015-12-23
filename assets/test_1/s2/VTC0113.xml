@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p>Upon visiting the Orient in 1850, Gustave Flaubert was so ___________ belly dancing that he wrote, in a letter to his mother, that the dancers alone made his trip worthwhile.</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:blanks>
+		<barrons:blank>
+			<barrons:choice correct="false"><![CDATA[overwhelmed by]]></barrons:choice>
+			<barrons:choice correct="true"><![CDATA[enamored of]]></barrons:choice>
+			<barrons:choice correct="false"><![CDATA[taken aback by]]></barrons:choice>
+			<barrons:choice correct="false"><![CDATA[ensconced by]]></barrons:choice>
+			<barrons:choice correct="false"><![CDATA[flustered by]]></barrons:choice>
+		</barrons:blank>
+</barrons:blanks>
+
+</question_content>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p>he Erie Canal's completion caused __________ economic ripples; property values and industrial output along its route rose exponentially.</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:blanks>
+		<barrons:blank>
+			<barrons:choice correct="false"><![CDATA[persistent]]></barrons:choice>
+			<barrons:choice correct="false"><![CDATA[invaluable]]></barrons:choice>
+			<barrons:choice correct="false"><![CDATA[incredulous]]></barrons:choice>
+			<barrons:choice correct="false"><![CDATA[severe]]></barrons:choice>
+			<barrons:choice correct="true"><![CDATA[prodigious]]></barrons:choice>
+		</barrons:blank>
+</barrons:blanks>
+
+</question_content>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p>Robert Ingersoll, although virtually unknown today, was __________ orator of the nineteenth century ; people traveled hundreds of miles to hear his eloquent speeches.</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:blanks>
+		<barrons:blank>
+			<barrons:choice correct="false"><![CDATA[a domineering]]></barrons:choice>
+			<barrons:choice correct="true"><![CDATA[an eminent]]></barrons:choice>
+			<barrons:choice correct="false"><![CDATA[an unobjectionable]]></barrons:choice>
+			<barrons:choice correct="false"><![CDATA[a conventional]]></barrons:choice>
+			<barrons:choice correct="false"><![CDATA[an execrable]]></barrons:choice>
+		</barrons:blank>
+</barrons:blanks>
+
+</question_content>

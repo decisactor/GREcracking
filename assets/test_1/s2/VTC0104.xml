@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p>Because his one presidential term was marked by crisis and conflict , many historians consider the presidency of John Adams __________. </p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:blanks>
+		<barrons:blank>
+			<barrons:choice correct="false"><![CDATA[an expediency]]></barrons:choice>
+			<barrons:choice correct="false"><![CDATA[an indulgence]]></barrons:choice>
+			<barrons:choice correct="true"><![CDATA[a calamity]]></barrons:choice>
+			<barrons:choice correct="false"><![CDATA[a regency]]></barrons:choice>
+			<barrons:choice correct="false"><![CDATA[a sovereignty]]></barrons:choice>
+		</barrons:blank>
+</barrons:blanks>
+
+</question_content>

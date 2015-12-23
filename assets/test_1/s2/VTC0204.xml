@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p>The human race is a very (i) __________ species, as the facade of calm that covers our anxiety and (ii)__________ is flimsy and is effortlessly ruptured.</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:blanks>
+	<barrons:blank>
+		<barrons:choice correct="false"><![CDATA[fragile]]></barrons:choice>
+		<barrons:choice correct="false"><![CDATA[purposeful]]></barrons:choice>
+		<barrons:choice correct="true"><![CDATA[daring]]></barrons:choice>
+	</barrons:blank>
+	<barrons:blank>
+		<barrons:choice correct="true"><![CDATA[terror]]></barrons:choice>
+		<barrons:choice correct="false"><![CDATA[vulnerability]]></barrons:choice>
+		<barrons:choice correct="false"><![CDATA[humor]]></barrons:choice>
+	</barrons:blank>
+</barrons:blanks>
+
+</question_content>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p>Jenkins is an artist known for engendering strong reactions in his viewers; in fact, some of his more (i)_________ paintings have caused viewers extreme (ii)_________.</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:blanks>
+	<barrons:blank>
+		<barrons:choice correct="true"><![CDATA[ominous]]></barrons:choice>
+		<barrons:choice correct="false"><![CDATA[accomplished]]></barrons:choice>
+		<barrons:choice correct="false"><![CDATA[innovative]]></barrons:choice>
+	</barrons:blank>
+	<barrons:blank>
+		<barrons:choice correct="false"><![CDATA[discouragement]]></barrons:choice>
+		<barrons:choice correct="true"><![CDATA[discomposure]]></barrons:choice>
+		<barrons:choice correct="false"><![CDATA[resoluteness]]></barrons:choice>
+	</barrons:blank>
+</barrons:blanks>
+
+</question_content>

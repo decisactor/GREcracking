@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p>Political predictions generally prove fairly accurate when the presumption that the future will be similar to the past is (i)__________ . In periods with substantial (ii)__________ in the political world, however, predictions can be (iii)__________ wrong.</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:blanks>
+	<barrons:blank>
+		<barrons:choice correct="true"><![CDATA[disproved]]></barrons:choice>
+		<barrons:choice correct="false"><![CDATA[stipulated]]></barrons:choice>
+		<barrons:choice correct="false"><![CDATA[fulfilled]]></barrons:choice>
+	</barrons:blank>
+	<barrons:blank>
+		<barrons:choice correct="false"><![CDATA[upswings]]></barrons:choice>
+		<barrons:choice correct="false"><![CDATA[insurgencies]]></barrons:choice>
+		<barrons:choice correct="true"><![CDATA[changes]]></barrons:choice>
+	</barrons:blank>
+	<barrons:blank>
+		<barrons:choice correct="true"><![CDATA[thoughtfully]]></barrons:choice>
+		<barrons:choice correct="false"><![CDATA[perilously]]></barrons:choice>
+		<barrons:choice correct="false"><![CDATA[carelessly]]></barrons:choice>
+	</barrons:blank>
+</barrons:blanks>
+
+</question_content>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p>Voters have become so inured to the fickle nature of politicians that they responded to the levy of a new tax with __________.</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:blanks>
+		<barrons:blank>
+			<barrons:choice correct="false"><![CDATA[amazement]]></barrons:choice>
+			<barrons:choice correct="true"><![CDATA[stolidity]]></barrons:choice>
+			<barrons:choice correct="false"><![CDATA[exasperation]]></barrons:choice>
+			<barrons:choice correct="false"><![CDATA[alarm]]></barrons:choice>
+			<barrons:choice correct="false"><![CDATA[perplexity]]></barrons:choice>
+		</barrons:blank>
+</barrons:blanks>
+
+</question_content>

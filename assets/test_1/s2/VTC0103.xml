@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_content xmlns="default" xmlns:barrons="http://ns.barronseduc.com/cds/">
+<barrons:question>
+<![CDATA[<TextFlow xmlns="http://ns.adobe.com/textLayout/2008">
+<p>Sophocles, who wrote the play Oedipus Rex, was one of the most __________ playwrights of ancient Greece, completing 123 plays in his lifetime-double that of any of his contemporaries.</p>
+</TextFlow>]]>
+</barrons:question>
+
+<barrons:blanks>
+		<barrons:blank>
+			<barrons:choice correct="false"><![CDATA[famous]]></barrons:choice>
+			<barrons:choice correct="false"><![CDATA[bombastic]]></barrons:choice>
+			<barrons:choice correct="false"><![CDATA[critical]]></barrons:choice>
+			<barrons:choice correct="true"><![CDATA[prolific]]></barrons:choice>
+			<barrons:choice correct="false"><![CDATA[eclectic]]></barrons:choice>
+		</barrons:blank>
+</barrons:blanks>
+
+</question_content>
